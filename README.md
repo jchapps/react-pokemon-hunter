@@ -1,3 +1,5 @@
+![screenshot](./screenshots/home.png)
+
 # Pokemon Hunter
 
 Find your favourite pokemon GIFs
