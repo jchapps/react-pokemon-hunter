@@ -20,13 +20,21 @@ const App = () => {
     "jP4pPl5z1lccFcGvR0",
     "vsyKKf1t22nmw",
     "xuXzcHMkuwvf2",
+    "kd2VGZFWNWkTY1nz5p",
+    "N8BreB0eFUJ3Jyn3cX",
+    "rBwXbZmtLqS0GpAaUP",
+    "lkS3szwUwBYfGxae6k",
+    "Vhmw4uWXXFEckiQZqx",
+    "iBANmdIlMNJVC",
+    "11rqjgJuGKONDlqCx0",
+    "u1k1kpDZSw5sA",
   ]);
   const fetchGiphy = (keyword) => {
     giphy.search(
       {
         q: keyword,
         rating: "g",
-        limit: 10,
+        limit: 20,
       },
       (err, res) => {
         setGiIdList(res.data.map((gif) => gif.id));
