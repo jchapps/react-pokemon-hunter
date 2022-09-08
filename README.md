@@ -1,14 +1,13 @@
-This Is Formula Gif
-Formula Gif is a simple application where you can search for a gif that is related to F1
+###Pokemon Hunter
+Find your favourite pokemon GIFs
 
-Note
-Please keep in mind that too many search will overload my API requests and giphy will stop returning with pictures.
+##Note
+This runs on an API, therefore there are request limits.
 
-How to run locally
-After cloning, please
+##How to run locally
 
-yarn install
-to install dependencies and
+##Install dependencies
+<sub>yarn install</sub>
 
-yarn start
-to run on local host
+##Run locally
+<sub>yarn start</sub>
