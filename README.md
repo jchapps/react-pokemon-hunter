@@ -1,4 +1,4 @@
-**Pokemon Hunter**
+**Pokemon Hunter**\
 Find your favourite pokemon GIFs
 
 **How to run locally**
