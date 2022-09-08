@@ -1,13 +1,21 @@
-**Pokemon Hunter**\
+# Pokemon Hunter
+
 Find your favourite pokemon GIFs
 
-**How to run locally**
+## How to run locally
 
-Install dependencies\
-<sub>yarn install</sub>
+Install dependences
 
-Run locally\
-<sub>yarn start</sub>
+```bash
+yarn install
+```
 
-**Note**\
+Run on a local host
+
+```bash
+yarn start
+```
+
+## Note
+
 This runs on an API, therefore there is request limits.
