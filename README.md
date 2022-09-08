@@ -1,30 +1,14 @@
-# react-boilerplate
+This Is Formula Gif
+Formula Gif is a simple application where you can search for a gif that is related to F1
 
-Simple react starter with the following config:
+Note
+Please keep in mind that too many search will overload my API requests and giphy will stop returning with pictures.
 
-- React, ReactDOM
-- Webpack 4
-- Babel with es2015 and react presets
-- Bootstrap (css only, loaded from a cdn in `index.html`)
-- work with `.js` or `.jsx` files
-- main `application.scss` stylesheet is imported in `index.js` as a module to enjoy hot reloading
+How to run locally
+After cloning, please
 
-## Scripts
+yarn install
+to install dependencies and
 
-To start the local Webpack Dev Server (usually on port `8080`):
-
-```bash
 yarn start
-```
-
-To lint all JavaScript files in the `src` folder:
-
-```bash
-yarn lint
-```
-
-To build and deploy your app to `gh-pages` branch on the GitHub repo:
-
-```bash
-yarn deploy
-```
+to run on local host
