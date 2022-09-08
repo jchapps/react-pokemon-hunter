@@ -1,13 +1,13 @@
 **Pokemon Hunter**\
-Find your favourite pokemon GIFs\
+Find your favourite pokemon GIFs
 
 **Note**\
-This runs on an API, therefore there are request limits.\
+This runs on an API, therefore there are request limits.
 
 **How to run locally**\
 
 Install dependencies\
-<sub>yarn install</sub>\
+<sub>yarn install</sub>
 
 Run locally\
-<sub>yarn start</sub>\
+<sub>yarn start</sub>
