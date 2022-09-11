@@ -20,4 +20,4 @@ yarn start
 
 ## Note
 
-This runs on an API, therefore there is request limits.
+This runs on an API, therefore there is a request limit.
